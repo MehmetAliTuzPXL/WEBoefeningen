@@ -1,0 +1,54 @@
+html {
+    font-family: "Comic Sans MS";
+    background-color: gray;
+
+}
+div {
+    padding: 20px;
+}
+h1 {
+    font-size: 40pt;
+    color: orange;
+}
+.ttlplyslst {
+    text-align: center;
+}
+.playlist {
+    border: red 10px solid;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+.pukkelpop {
+     border: red 10px solid;
+     background-color: blue;
+     color: white;
+     text-align: left;
+    margin-left: 20%;
+}
+.rockwerchter {
+    border: red 10px solid;
+    background-color: blue;
+    color: white;
+    text-align: left;
+}
+.tomorrowland {
+    border: red 10px solid;
+    background-color: blue;
+    color: white;
+    text-align: left;
+}
+.dour {
+    border: red 10px solid;
+    background-color: blue;
+    color: white;
+    text-align: left;
+}
+a {color:white}
+a:hover {color:red}
+
+
+
+

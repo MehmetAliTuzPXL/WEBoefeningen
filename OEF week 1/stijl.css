@@ -1,0 +1,32 @@
+html {
+    background-color: #d9ddd7;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    color: #1d9b07
+}
+
+p {
+    background-color: #6a7689;
+    color: white; /* #fffff */
+    padding: 20px;
+}
+p.highlight {
+    color: yellow;
+    /*
+    border-color: yellow;
+    border-width: 2px;
+    border-style: solid;
+    */
+    border: 2px yellow solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    /*
+    margin: 0 20%;
+    */
+    text-align: center;
+}
+
+a {color: white;}
+a:hover {color: #6df469;}
